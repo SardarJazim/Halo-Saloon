@@ -1,0 +1,6 @@
+{
+  "name": "Halo Salon",
+  "description": "A luxury salon experience in Longview, Texas. Book your next hair styling, haircut, or coloring appointment with our professional team.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Full-stack", "Database", "AI Reservations"]
+}
